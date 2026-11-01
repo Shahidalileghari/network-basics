@@ -35,12 +35,3 @@ Read each module, answer its checkpoint in your own words, run relevant labs, th
 
 ## Prerequisites
 Basic computer use and terminal familiarity. Programming experience helps but is not required for the theory modules. Python 3.11+ is used in one socket lab.
-
-## Safety
-Only inspect networks, hosts, and traffic you own or are explicitly authorized to test. Prefer localhost and private lab networks. Never publish credentials, private packet captures, or sensitive network details.
-
-## Validation
-The ZIP archive and required-file structure are checked when packaged. Runtime tests and live network tests have not been run. Commands may differ across operating systems.
-
-## License
-MIT. See `LICENSE`.
