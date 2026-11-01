@@ -1,0 +1,1 @@
+# Start Here\n\nStudy modules in numerical order. For every concept ask: what problem does it solve, where does it operate, what data does it process, and how can I observe it? Prefer localhost and private lab addresses.\n

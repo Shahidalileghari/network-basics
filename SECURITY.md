@@ -1,0 +1,1 @@
+# Security Policy\n\nUse labs only on systems and networks you own or are authorized to test. Do not commit secrets, private keys, or sensitive network captures.\n

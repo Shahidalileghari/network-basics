@@ -1,0 +1,1 @@
+# Contributing\n\nKeep examples reproducible, identify OS requirements, use localhost/private lab networks, and never include credentials or unauthorized packet captures.\n

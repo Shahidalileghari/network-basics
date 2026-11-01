@@ -1,0 +1,1 @@
+# Roadmap\n\n1. Network fundamentals and layered models.\n2. Ethernet, IP addressing, and subnetting.\n3. TCP/UDP, ports, routing, and NAT.\n4. DNS, HTTP, TLS, and SSH.\n5. Diagnostics and packet analysis.\n6. Security, VPNs, cloud networking, and modern protocols.\n7. Application architecture and portfolio projects.\n

@@ -1,0 +1,1 @@
+# Lab 03 — Local TCP Server\n\nRequires Python 3.11+. Run `python server.py` in one terminal and `python client.py` in another. The example binds only to `127.0.0.1`; it is an educational socket demonstration, not a production protocol.\n
